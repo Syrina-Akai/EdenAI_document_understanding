@@ -1,4 +1,4 @@
-# edenai_classificationAPI
+# EdenAI document understanding
 
 ## Abstract 
 During the implementation of our final year project, we focused on automating document
@@ -35,7 +35,7 @@ python3 -m venv eden_env
 pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cpu
 ```
 ```bash
-pip3 install -r requirements_linux.txt
+pip3 install -r requirements.txt
 ```
 
 ## Create a docker container
