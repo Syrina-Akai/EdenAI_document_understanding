@@ -29,13 +29,13 @@ performance and efficient execution time.
 Use these commands to install the dependencies on a virtual environment.
 
 ```bash
-python3 -m venv eden_env
+py -m venv eden_env
 ```
 ```bash
-pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
 ```
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Create a docker container
